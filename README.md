@@ -73,7 +73,11 @@ Through this project I gained hands-on experience with:
 
 ```text
 .
+├── images/
+│   └── results.png
 ├── notebook.ipynb
+├── train.py
+├── requirements.txt
 ├── README.md
 └── .gitignore
 ```
